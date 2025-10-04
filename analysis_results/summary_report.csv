@@ -1,0 +1,10 @@
+topology,algorithm,final_success_rate,avg_fidelity_on_success,std_fidelity_on_success,avg_path_length_on_success
+grid,dijkstra,53.69,0.903,0.061,5.58
+grid,drl,54.29,0.82,0.079,5.904
+grid,random,52.89,0.856,0.085,5.645
+nsfnet,dijkstra,59.08,0.927,0.054,5.547
+nsfnet,drl,66.67,0.859,0.081,5.94
+nsfnet,random,61.48,0.841,0.088,5.919
+small_world,dijkstra,19.36,0.978,0.016,6.412
+small_world,drl,7.58,0.982,0.018,5.684
+small_world,random,7.58,0.976,0.017,5.421

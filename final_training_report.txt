@@ -1,0 +1,25 @@
+====== Final Training Report ======
+
+Training Duration: 2.74 seconds
+Initial Memory: 810.51 MB
+Final Memory: 813.96 MB
+Memory Change: +3.45 MB
+
+------ Performance Summary (Last 100 Episodes) ------
+Overall Success Rate: 100.00%
+Average Reward: 9.578
+Average Successful Fidelity: 0.879
+Average Path Length: 7.94
+
+------ RL Agent Final State ------
+Final Epsilon: 1.0000
+Average Q-Value: 0.000
+Average TD-Error: 0.000
+
+------ Network State ------
+Most Used Nodes:
+  - Node 15: 1062 times
+  - Node 16: 993 times
+  - Node 7: 935 times
+  - Node 6: 822 times
+  - Node 12: 819 times
