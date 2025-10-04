@@ -1,8 +1,12 @@
+# Python caches
 __pycache__/
 *.pyc
 *.pyo
 *.pyd
+
+# Outputs
+outputs/
+
+# OS files
+.DS_Store
 *.swp
-*.DS_Store
-analysis_results/
-logs/
